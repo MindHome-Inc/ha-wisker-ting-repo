@@ -1,6 +1,7 @@
 {
   "domain": "whisker_ting",
   "name": "Whisker Ting",
+  "categories": ["security_safety.smoke_co_alarms", "energy.meters_monitoring"],
   "codeowners": [
     "@simplytoast1",
     "@jasonjhofmann"
